@@ -29,7 +29,7 @@
 #### 🔗 [실습 코드북 링크](ADP_practice)
 
 
-## 4. 파이썬 코딩 무료 강의
+## 4. 나도코딩 파이썬 코딩 무료 강의
 <p align="center">
   <img src="https://img.youtube.com/vi/kWiCuklohdY/hqdefault.jpg" alt="YouTube Video 1" width="300" />
   <img src="http://img.youtube.com/vi/PjhlUzp_cU0/hqdefault.jpg" alt="YouTube Video 2" width="300" /> 
