@@ -34,6 +34,6 @@
 </p>
 
 #### 공부했던 기간: 2024
-#### [실습 코드북 하이퍼링크 1](Nado_Coding/0_Basic)
-#### [실습 코드북 하이퍼링크 2](Nado_Coding/5_Advanced)
-#### [실습 코드북 하이퍼링크 3](Nado_Coding/7_Advanced)
+#### [실습 코드북 하이퍼링크 1.기본편](Nado_Coding/0_Basic)
+#### [실습 코드북 하이퍼링크 2.활용편5](Nado_Coding/5_Advanced)
+#### [실습 코드북 하이퍼링크 3.활용편7](Nado_Coding/7_Advanced)
