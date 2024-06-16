@@ -13,3 +13,7 @@
   - 실습 코드북:https://github.com/DSWoodin/Pythonworkspace/tree/main/CV_DL
   
 
+- 1장 데이터 분석을 시작하며
+  - 데이터 분석이란
+  - 구글 코랩과 주피터 노트북
+  - [3절 이 도서가 얼마나 인기가 좋을까요?](01-3.ipynb)
