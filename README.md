@@ -7,4 +7,4 @@
 
 ## 1. 컴퓨터 비전과 딥러닝
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156645481.jpg" height="400">   
-- [컴퓨터 비전과 딥러닝](CV_DL)
+- [컴퓨터 비전과 딥러닝](CV_DL/ch2)
