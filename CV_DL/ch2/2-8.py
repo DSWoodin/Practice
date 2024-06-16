@@ -20,7 +20,7 @@ def draw(event, x, y, flags, param):
         # 마우스 좌클릭을 하면 x,y 좌표를 전역 변수 ix,iy에 저장
         ix,iy = x,y
     elif event == cv.EVENT_LBUTTONUP:
-        # 마우스 우클릭을 하면 x,y 좌표와 ix,iy 좌표로 직사각형 생성
+        # 마우스 좌클릭을 때면 x,y 좌표와 ix,iy 좌표로 직사각형 생성
         cv.rectangle(img, (ix,iy), (x,y), (0,0,255), 2)
     
     cv.imshow('Drawing',img)
