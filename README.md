@@ -6,4 +6,4 @@
 도서 목록과 해당 도서의 실습 코드북 링크는 다음과 같습니다.
 
 
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156645481.jpg" height="300">
+<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156645481.jpg" height="400">
