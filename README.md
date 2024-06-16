@@ -12,10 +12,12 @@
 #### 공부했던 기간: 2024/06/15 ~ 2024/
 #### [실습 코드북 하이퍼링크](CV_DL)
     
-- 도서명: 컴퓨터 비전과 딥러닝
-  - 저자: 오일석
-  - 출판: 한빛아카데미
-  - 실습 코드북:https://github.com/DSWoodin/Pythonworkspace/tree/main/CV_DL
+## 2. 혼자 공부하는 데이터 분석 with 파이썬
+<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169210287.jpg" height="300">   
+
+### 혼자 공부하는 데이터 분석 with 파이썬(박해선, 한빛미디어)
+#### 공부했던 기간: 2024/05/26 ~ 2024/06/14
+#### [실습 코드북 하이퍼링크](Hongong/DA)
   
 
 
