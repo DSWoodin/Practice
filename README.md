@@ -7,6 +7,9 @@
 
 ## 1. 컴퓨터 비전과 딥러닝
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156645481.jpg" height="400">   
-[컴퓨터 비전과 딥러닝](https://github.com/DSWoodin/Pythonworkspace/tree/main/CV_DL)
-  - [3절 이 도서가 얼마나 인기가 좋을까요?](01-3.ipynb)
-[GitHub](https://github.com)
+도서명: 컴퓨터 비전과 딥러닝
+저자: 오일석
+출판: 한빛아카데미
+실습 코드북:https://github.com/DSWoodin/Pythonworkspace/tree/main/CV_DL
+  
+
