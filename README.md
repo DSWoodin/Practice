@@ -8,6 +8,7 @@
 ## 1. 컴퓨터 비전과 딥러닝 (오일석, 한빛아카데미)
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156645481.jpg" height="300">   
 
+#### [실습 코드북 링크](CV_DL)
 #### 📖 공부했던 기간: 2024/06/15 ~
 #### 🔗 [실습 코드북 링크](CV_DL)
 
