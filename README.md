@@ -5,19 +5,26 @@
 
 도서 목록과 해당 도서의 실습 코드북 링크는 다음과 같습니다.
 
-## 1. 컴퓨터 비전과 딥러닝
+## 1. 컴퓨터 비전과 딥러닝(오일석, 한빛아카데미)
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156645481.jpg" height="300">   
 
-### 컴퓨터 비전과 딥러닝(오일석, 한빛아카데미)
-#### 공부했던 기간: 2024/06/15 ~ 2024/
+#### 공부했던 기간: 2024/06/15 ~
 #### [실습 코드북 하이퍼링크](CV_DL)
     
-## 2. 혼자 공부하는 데이터 분석 with 파이썬
+## 2. 혼자 공부하는 데이터 분석 with 파이썬(박해선, 한빛미디어)
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169210287.jpg" height="300">   
 
-### 혼자 공부하는 데이터 분석 with 파이썬(박해선, 한빛미디어)
 #### 공부했던 기간: 2024/05/26 ~ 2024/06/14
 #### [실습 코드북 하이퍼링크](Hongong/DA)
-  
 
+## 3. 파이썬 한권으로 끝내기: 데이터분석전문가(ADP) + 빅데이터분석기사 실기대비(데싸라면, 시대고시기획)
+<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791138349185.jpg" height="300">   
 
+#### 공부했던 기간: 2024
+#### [실습 코드북 하이퍼링크](ADP_practice)
+
+## 4. 파이썬 초보 강의(나도코딩, Youtube)
+<img src="https://img.youtube.com/vi/kWiCuklohdY/hqdefault.jpg" height="300">   
+
+#### 공부했던 기간: 2024
+#### [실습 코드북 하이퍼링크](Nado_Coding)
