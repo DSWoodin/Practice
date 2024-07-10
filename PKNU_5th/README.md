@@ -1,5 +1,5 @@
-## [Digital Smart Busan Academy] 
-## 제 5기 부경대 AI 프로젝트 과정
+## Digital Smart Busan Academy
+## 제 5기 부경대 AI 프로젝트 과정 
 <img src="Poster.jpg" height="500">
 
 
