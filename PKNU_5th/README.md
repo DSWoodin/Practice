@@ -1,5 +1,5 @@
 ## 컴퓨터 비전과 딥러닝
-<img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg" height="1000">
+<img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg" height="50">
 
 ![Example Image](https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg)
 
