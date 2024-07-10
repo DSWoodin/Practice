@@ -1,5 +1,7 @@
 ## 컴퓨터 비전과 딥러닝
-<img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg" height="1000">   
+<img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg" height="1000">
+
+![Example Image](https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg)
 
 #### 📘 [책 정보](https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg)
 #### 📖 공부했던 기간: 2024/06/15 ~
