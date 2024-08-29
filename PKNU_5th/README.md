@@ -1,6 +1,6 @@
 ## Digital Smart Busan Academy: 5th 부경대 AI프로젝트 
 
-<img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg">
+<img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg" height="300">
 
 <img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/d6e7c60d-d93a-478f-bfb1-00d5f29161a6.png" height="300">
 
