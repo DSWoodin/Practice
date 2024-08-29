@@ -1,5 +1,5 @@
 ## Digital Smart Busan Academy: 5th 부경대 AI프로젝트 
-<img src="Poster.jpg" height="500">
+
 
 <img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/5a444ff3-0ee8-4eec-bf66-79b6f737734e.jpg" height="300">
 <img src="https://icms.pknu.ac.kr/upload/photo/2024/04/12/d6e7c60d-d93a-478f-bfb1-00d5f29161a6.png" height="300">
@@ -17,3 +17,4 @@
 #### 📖 훈련 과정: 2개월 이론 강의, 4개월 팀프로젝트
 * 8개 분야의 이론 강의: 데이터분석, 머신러닝, 딥러닝, 자연어처리, 비전처리, 프론트엔드 프로그래밍, 데이터베이스 백엔드, 자바 웹 백엔드
 * 2개의 실전 팀프로젝트: 비전처리 챗봇 미니프로젝트, 파이널 최종프로젝트의 2가지 프로젝트
+<img src="Poster.jpg" height="500">
